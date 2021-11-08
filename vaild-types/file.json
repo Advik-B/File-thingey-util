@@ -1,0 +1,7 @@
+{
+    "Type": "FILE",
+    "Name": "$<str>$",
+    "Sha1": "$<str>$",
+    "Size": "$<float>$",
+    "data": "$<bytes>$"
+}
